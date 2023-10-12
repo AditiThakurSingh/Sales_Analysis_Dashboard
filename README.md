@@ -1,14 +1,8 @@
 
 # Power_Bi self projects
-"Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights."
+"Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated data sources into coherent, visually immersive, and interactive insights."
 
-"Power BI is a cloud-based analysis service that provides rapid insight and is used to extract and visualise data. ... This means that with Power BI you can see all your data through a single pane of glass and quickly create an analytical environment for monitoring data and sharing reports."## 🚀 About Me
-Hola, mi nombre es Mudit 
-I'm a Machine Learning and Data Science Enthusiast.
-I am interested in Business Analytics and Market Research as well as Predictve Finance Analysis.
-I am skilled in Python Language, SQL, C++, Data Science and ML , Data Visualisation and Keras/ Tensorflow, Stramlit and Analytics.
-Do checkout my repo!!
-Gracias :)
+"Power BI is a cloud-based analysis service that provides rapid insight and is used to extract and visualise data. ... This means that with Power BI you can see all your data through a single pane of glass and quickly create an analytical environment for monitoring data and sharing reports.
 
 ## PROCESS OF PROJECT
 

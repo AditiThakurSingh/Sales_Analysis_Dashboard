@@ -14,7 +14,7 @@
 ## 🔗 Links for Respective Project Works
 
 1. Supermarket Sales Analysis 
-[Dataset](https://github.com/COOLMudi/Mudit_Power_Bi_projects/blob/main/Global%20Supermarket%20Sales/global_superstore_2016.xlsx)
+[Dataset](https://github.com/AditiThakurSingh/Sales_Analysis_Dashboard/blob/main/global_superstore_2016.xlsx)
 
 [PowerBi Work File](https://github.com/COOLMudi/Mudit_Power_Bi_projects/blob/main/Global%20Supermarket%20Sales/Sales.pbix)
 
